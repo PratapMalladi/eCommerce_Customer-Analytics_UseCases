@@ -1,4 +1,16 @@
-# eCommerce_Customer-Analytics_UseCases
-An international e-commerce company wants to discover key insights from their customer database.
+## eCommerce_Customer-Analytics
 
-##Code Can't be disclosed as part of the legalities involoved, only very high level presentation is shared and available research papers on the Business problem context because I feel working in data science and machine learning is an exciting and challenging field. New techniques and tools are constantly percolating and honestly, it can feel overwhelming. Many of these new developments are found and first revealed in academic research articles. Extracting knowledge from these articles is difficult because the intended audience of these papers tend to be other researchers. Yet in order to stay current reading papers is an essential skill — luckily one that can be improved with diligence and practice.
+# An international e-commerce company wants to discover key insights from their customer database.
+
+# Many companies are swimming in data, and they are spending millions to collect more. But even with new tools and algorithms to analyze and make predictions based on consumer data, it’s often still not being used effectively. 
+
+# Customer Analytics for Growth is for business leaders who want to cultivate an analytics-based mindset throughout their organization, and gain a deep understanding of emerging AI technologies that are rapidly changing businesses today.
+
+# In Customer Analytics for Growth, you will explore the upside — and the downside — of complex data models, and understand the importance of transparency in data collection and analysis.
+
+# Descriptive Analytics examines the different types of customer data and how they can be visualized, ultimately helping you leverage your findings and strengthen your decision making.
+
+# Predictive Analytics explores the potential uses of the data once collected and interpreted. You’ll learn to utilize different modeling tools, such as regression analysis, be exposed to the latest machine learning algorithms, and estimate relationships among variables to predict future end-user behavior.
+
+# Prescriptive Analytics takes you through the final step: formulating concrete recommendations based on your data. These recommendations can be directed toward a variety of efforts, including pricing and social-platform outreach.
+
